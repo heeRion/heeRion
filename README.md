@@ -1,8 +1,5 @@
 <h1 align="center">👾 welcome to my github 👾</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=heerion&theme=transparent)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heerion&show_icons=true&theme=white)
-
 <hr>
 
 <h3 align="center">👀 language 👀</h3>
@@ -65,3 +62,5 @@
       src="https://img.shields.io/badge/dohieim@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<hr>
