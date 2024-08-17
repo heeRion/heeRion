@@ -32,16 +32,18 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/burpsuite-FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/vmware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/packet tracer-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  
 </div>
 
 <br>
