@@ -4,9 +4,9 @@
 
 <h3 align="center">👀 language 👀</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -51,18 +51,24 @@
 <h3 align="center">📬 contact 📬</h3>
 <div align="center">
   
-  <a href="https://velog.io/@heeyo">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  
   <a href="https://www.instagram.com/dohee_im/">
     <img src="https://img.shields.io/badge/dohee_im-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
   </a>
-  
+
+  <a href="https://velog.io/@heeyo">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+
+  <a href="mailto:dohieim@naver.com">
+    <img
+      src="https://img.shields.io/badge/dohieim@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp
+  </a>
+
   <a href="mailto:dohieim@gmail.com">
     <img
       src="https://img.shields.io/badge/dohieim@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  
 </div>
 
 <hr>
