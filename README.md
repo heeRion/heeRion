@@ -59,9 +59,9 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
 
-  <a href="mailto:dohieim@naver.com">
+  <a href="mailto:doheeim@naver.com">
     <img
-      src="https://img.shields.io/badge/dohieim@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/doheeim@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp
   </a>
 
   <a href="mailto:dohieim@gmail.com">
