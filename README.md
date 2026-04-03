@@ -51,8 +51,8 @@
 <h3 align="center">📬 contact 📬</h3>
 <div align="center">
   
-  <a href="https://www.instagram.com/dohee_im/">
-    <img src="https://img.shields.io/badge/dohee_im-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
+  <a href="https://www.instagram.com/heerion.dev/">
+    <img src="https://img.shields.io/badge/heerion.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
   </a>
 
   <a href="https://velog.io/@heeyo">
